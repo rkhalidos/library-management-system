@@ -290,11 +290,27 @@
     },
     {
       "path": "README.md",
-      "record_state": "active",
+      "record_state": "stale",
       "record_source": "cline_edited",
       "cline_read_date": 1773176216662,
       "cline_edit_date": 1773176216662,
       "user_edit_date": null
+    },
+    {
+      "path": "README.md",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1773176216662,
+      "cline_edit_date": 1773176216662,
+      "user_edit_date": 1773177645094
+    },
+    {
+      "path": "README.md",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1773176216662,
+      "cline_edit_date": 1773176216662,
+      "user_edit_date": 1773177665044
     }
   ],
   "model_usage": [
